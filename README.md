@@ -1,8 +1,5 @@
 <!-- Pastel Soft Tech Aesthetic README -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E6D6FF&height=200&section=header&text=Cia%20Aulia&fontSize=40&fontColor=6C63FF&animation=fadeIn" />
-</p>
 
 <h2 align="center">🌷 Hi, I'm Cia 👋</h2>
 <p align="center">
@@ -70,12 +67,8 @@ Includes premium features & ad system structure
 
 ---
 
-## 🌐 Connect With Me
-
-🌸 Portfolio: https://your-portfolio-link.com  
-🎨 Behance: https://behance.net/yourusername  
-💜 Dribbble: https://dribbble.com/yourusername  
-📧 Email: your@email.com  
+## 🌐 Connect With Me 
+📧 Email: naura.rara36@gmail.com
 
 ---
 
