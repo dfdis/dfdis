@@ -16,7 +16,7 @@
 🦈 Shark enthusiast & aesthetic lover  
 🎯 Dreaming of building impactful digital products & creative spaces  
 
-I believe design should feel **soft, intuitive, and emotionally warm** — not just functional.
+I believe design should feel **soft, intuitive, and emotionally warm** not just functional.
 
 ---
 
@@ -52,18 +52,6 @@ User-centered design for tenant & owner interaction
 Includes premium features & ad system structure  
 
 *(More case studies coming soon ✨)*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dfdis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C8A2FF&icon_color=C8A2FF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfdis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C8A2FF" />
-</p>
 
 ---
 
